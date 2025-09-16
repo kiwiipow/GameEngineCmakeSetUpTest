@@ -1,0 +1,3 @@
+C:/Users/Paula/Documents/Uni/3r curso/GameEngine/CMakeEngineTest/out/build/x64-debug/CMakeFiles/CMakeEngineTest.dir
+C:/Users/Paula/Documents/Uni/3r curso/GameEngine/CMakeEngineTest/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paula/Documents/Uni/3r curso/GameEngine/CMakeEngineTest/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
